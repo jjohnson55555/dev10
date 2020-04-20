@@ -18,7 +18,7 @@
     }
   ]
   
-  showEvents({
+
     "events": [
       {
         "location": "Killen, AL",
@@ -36,5 +36,5 @@
         "map": "https://cdn.thecrazytourist.com/wp-content/uploads/2019/04/ccimage-shutterstock_1223937.jpg"
       }
     ]
-  });
+  }
 }
